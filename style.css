@@ -1221,8 +1221,6 @@ ol.comment-list .comment-reply-link {
 	background-color: #383838;	
 	border-top: 5px solid #e5e5e5;
 	margin-top: 0px;
-	position: absolute;
-    bottom: 0;
     width: 100%;
 }
 
